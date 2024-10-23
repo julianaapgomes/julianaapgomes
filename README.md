@@ -1,0 +1,26 @@
+# Bem vindo ao meu perfil!💐
+
+Meu nome é **Juliana Aparecida Gomes**
+
+* Sou do 1º ano do ensino médio da escola estadual João Jorge Marmorato
+* Gosto de desenhar, meus filmes favoritos são de romance e ação
+* Tenho bastante facilidade de aprender coisas sobre humanas
+
+  ### Meu contato :✉
+
+  juapgomes432@gmail.com
+
+<!--
+**julianaapgomes/julianaapgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
